@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My app</string>
+    <string name="play_game">play game</string>
+    <string name="first">First</string>
+    <string name="fifth">fifth</string>
+    <string name="eighth">eighth</string>
+    <string name="seventh">seventh</string>
+    <string name="fourth">fourth</string>
+    <string name="sixth">sixth</string>
+    <string name="third">third</string>
+    <string name="second">second</string>
+    <string name="nineth">nineth</string>
+    <string name="has_won">------ has won</string>
+    <string name="back">Back</string>
+    <string name="again">again</string>
+    <string name="logoimage">logoimage</string>
+</resources>
