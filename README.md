@@ -1,3 +1,5 @@
+![Screenshot_20200607-025708](https://user-images.githubusercontent.com/62813608/83955615-3361b180-a872-11ea-8eb1-b9d5c33964b8.png)
+![Screenshot_20200607-025719](https://user-images.githubusercontent.com/62813608/83955618-38266580-a872-11ea-9ab8-f607645d6d5e.png)
 # Tic-tac-toe
 Tic-tac-toe (American English), noughts and crosses (British English), 
 or Xs and Os is a paper-and-pencil game for two players, X and O, who 
